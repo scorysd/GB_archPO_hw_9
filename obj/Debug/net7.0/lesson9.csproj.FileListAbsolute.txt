@@ -1,0 +1,5 @@
+/Users/romanversinin/Desktop/Учеба GB/Arch PO/lesson9/obj/Debug/net7.0/lesson9.csproj.AssemblyReference.cache
+/Users/romanversinin/Desktop/Учеба GB/Arch PO/lesson9/obj/Debug/net7.0/lesson9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanversinin/Desktop/Учеба GB/Arch PO/lesson9/obj/Debug/net7.0/lesson9.AssemblyInfoInputs.cache
+/Users/romanversinin/Desktop/Учеба GB/Arch PO/lesson9/obj/Debug/net7.0/lesson9.AssemblyInfo.cs
+/Users/romanversinin/Desktop/Учеба GB/Arch PO/lesson9/obj/Debug/net7.0/lesson9.csproj.CoreCompileInputs.cache
